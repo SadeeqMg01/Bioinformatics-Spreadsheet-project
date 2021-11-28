@@ -46,7 +46,7 @@ This group is the group 1, and it consist of 15 Members, the group is led by Abu
 
 ## Help
 
-- All codes are located under the codes directory.
+- All codes are located under the **`code`** directory.
 - All the codes can be run online at: [Code Chef](https://www.codechef.com/ide). See screenshot below.
 ![image](https://user-images.githubusercontent.com/19868515/143773280-b98caf0c-2f29-44f4-98a7-7b0673a6e057.png)
 
