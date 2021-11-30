@@ -43,7 +43,7 @@ This group is the group 1, and it consist of 15 Members, the group is led by Abu
 | Muhammad Auwal Idris | R | None |
 
 ## Workflow
-![image](https://user-images.githubusercontent.com/19868515/143773280-b98caf0c-2f29-44f4-98a7-7b0673a6e057.png)
+
 
 
 ## Help
