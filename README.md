@@ -57,4 +57,5 @@ This group is the group 1, and it consist of 15 Members, the group is led by Abu
 
 ## Acknowledgement
 
-We express our profound and sincere gratitude to Dr. Umar Ahmad (Lecturer for introduction to bioinformatics) for his encouragement to see that we reach our potentials. Our special thanks to [Abdulhakeem](https://github.com/aoamusat) for his guidance in carrying out the assignment, which enable is to do the assignment successfully. We give thanks to Abdulazeez for his time to go through our scripts We thank all of our group members for their commitment and suggestions toward the success of this assignment.
+We express our profound and sincere gratitude to Dr. Umar Ahmad (Lecturer for introduction to bioinformatics) for his encouragement to see that we reach our potentials. Our special thanks to [Abdulhakeem](https://github.com/aoamusat) for his guidance in carrying out the assignment, which enable us
+ to do the assignment successfully. We give thanks to Abdulazeez for his time to go through our scripts We thank all of our group members for their commitment and suggestions toward the success of this assignment.
