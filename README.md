@@ -30,20 +30,23 @@ This group is the group 1, and it consist of 15 Members, the group is led by Abu
 | Lukman Isah Musa | R | None |
 | Masud Adam | Python | None |
 | Sa'eed Bello | Python | None |
-| Hafsat Ahmad Haruna | Java | None |
+| Hafsat Ahmad Haruna | Python | None |
 | Nura Gali | R | None |
-| Adamu Aliyu Dahiru | Bash | None |
+| Adamu Aliyu Dahiru | C++ | None |
 | Hajara Halliru Jahun | Java | None |
 | Asiya Yahaya | Python | None |
-| Hauwau Musa | R | None |
-| Khalid Ibrahim | Python | None |
-| Abdullahi Abdulmumini | Javascript | None |
+| Hauwau Musa | C++ | None |
+| Khalid Ibrahim | C++ | None |
+| Abdullahi Abdulmumini | C++ | None |
 | Saleh Salisu | Python | None |
 | Musa Muhammad Baba | Javascript | None |
-| Muhammad Auwal Idris | R | None |
+| Muhammad Auwal Idris | C++ | None |
 
-## Workflow
 
+# Workflow
+
+
+![Screenshot_20211201-002118](https://user-images.githubusercontent.com/94145681/144147188-1c0c7f81-ec8f-469d-8083-3e60c382a271.jpg)
 
 
 ## Help
