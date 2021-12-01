@@ -57,5 +57,5 @@ This is a repository for task assigned to group 1 for Bioinformatics continuous 
 
 ## Acknowledgement
 
-We express our profound and sincere gratitude to Dr. Umar Ahmad (Lecturer for introduction to bioinformatics) for his encouragement to see that we reach our potentials. Our special thanks to [Abdulhakeem](https://github.com/aoamusat) for his guidance in carrying out the assignment, which enable us
+We express our profound and sincere gratitude to [Dr. Umar Ahmad]( https://github.com/babasaraki) for his encouragement to see that we reach our potentials. Our special thanks to [Abdulhakeem](https://github.com/aoamusat) for his guidance in carrying out the assignment, which enable us
  to do the assignment successfully. We give thanks to Abdulazeez for his time to go through our scripts We thank all of our group members for their commitment and suggestions toward the success of this assignment.
