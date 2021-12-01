@@ -2,25 +2,25 @@
 
 ## About this Group
 
-This group is the group 1, and it consist of 15 Members, the group is led by Abubakar Mahmood Garba. The group collaborates with a programmer [Abdulhakeem](https://github.com/aoamusat) to make sure that the assignment is conducted as expected by the lecturer.
+This is a repository for task assigned to group 1 for Bioinformatics continuous assessment , and it consist of 15 Members, the group is led by Abubakar Mahmood Garba. The group collaborates with a programmer [Abdulhakeem](https://github.com/aoamusat) to make sure that the assignment is conducted as expected by the lecturer. This README.md contains information about the name of the members of group 1, the workflow, help and acknowlagement. All members are required to add their names as well add name of the programming language they used to write their script.
 
 ## List of Group Member
 
-- Abubakar Mahmood Garba        (BASUG/UG/BHS/ANA/18/003)
-- Lukman Isah Musa              (BASUG/UG/BHS/ANA/18/001)
-- Masud Adam                    (BASUG/UG/BHS/ANA/18/008)
-- Sa'eed Bello                  (BASUG/UG/BHS/ANA/18/014)
-- Hafsat Ahmad Haruna           (BASUG/UG/BHS/ANA/18/012)
-- Nura Gali                     (BASUG/UG/BHS/ANA/18/007)
-- Adamu Aliyu Dahiru            (BASUG/UG/BHS/ANA/18/015)
-- Hajara Halliru Jahun          (BASUG/UG/BHS/ANA/18/010)
-- Asiya Yahaya                  (BASUG/UG/BHS/ANA/18/005)
-- Hauwau Musa                   (BASUG/UG/BHS/ANA/18/004)
-- Khalid Ibrahim                (BASUG/UG/BHS/ANA/18/013)
-- Abdullahi Abdulmumini         (BASUG/UG/BHS/ANA/18/009)
-- Saleh Salisu                  (BASUG/UG/BHS/ANA/18/006)
-- Musa Muhammad Baba            (BASUG/UG/BHS/ANA/18/011)
-- Muhammad Auwal Idris          (BASUG/UG/BHS/ANA/18/016)
+- Abubakar Mahmood Garba        
+- Lukman Isah Musa              
+- Masud Adam                    
+- Sa'eed Bello                  
+- Hafsat Ahmad Haruna           
+- Nura Gali                     
+- Adamu Aliyu Dahiru            
+- Hajara Halliru Jahun          
+- Asiya Yahaya                  
+- Hauwau Musa                   
+- Khalid Ibrahim                
+- Abdullahi Abdulmumini         
+- Saleh Salisu                  
+- Musa Muhammad Baba            
+- Muhammad Auwal Idris          
 
 ## Programming Languages Used
 
