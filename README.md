@@ -39,7 +39,7 @@ This is a repository for task assigned to group 1 for Bioinformatics continuous 
 | Khalid Ibrahim | C++ | None |
 | Abdullahi Abdulmumini | C++ | None |
 | Saleh Salisu | Python | None |
-| Musa Muhammad Baba | Javascript | None |
+| Musa Muhammad Baba | Java | None |
 | Muhammad Auwal Idris | C++ | None |
 
 
