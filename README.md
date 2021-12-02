@@ -1,5 +1,9 @@
 # Group One - Introduction to Bioinformatics
 
+## About Bioinformatics
+
+Bioinformatics includes biological studies that use computer programming as part of their methodology, as well as a specific analysis "pipelines" that are repeatedly used, particularly in the field of genomics. Common uses of bioinformatics include the identification of candidates genes and single nucleotide polymorphisms (SNPs). bioinformatics consist of fields such as Genomics, Metagenomics, Epigenomics, Proteomics etc
+
 ## About this Group
 
 This is a repository for task assigned to group 1 for Bioinformatics continuous assessment , and it consist of 15 Members, the group is led by Abubakar Mahmood Garba. The group collaborates with a programmer [Abdulhakeem](https://github.com/aoamusat) to make sure that the assignment is conducted as expected by the lecturer. This README.md contains information about the name of the members of group 1, the workflow, help and acknowlagement. All members are required to add their names as well add name of the programming language they used to write their script.
