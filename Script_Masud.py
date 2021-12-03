@@ -1,8 +1,4 @@
-#<-----------Mas'ud Project------------>
-print("\t-------------BIOINFORMATICS SCRIPT---------------\n")
+#!/usr/bin/env bash 
 
-print("\t\tHello Mas'ud Adamu, below are your informations:\n")
-print("Name: " + "\t\t\t" + "Mas'ud Adamu")
-print("Email: " + "\t\t\t"+ "masudadamu91@gmail.com")
-print("Slack_username: " + "\t" + "@mas'ud_adamu")
-print("Area of interest: " + "\t" + "Metagenomics")
+
+echo "Mas'ud Adamu,masudadamu91@gmail.com,@mas'ud_adamu,Metagenomics"
