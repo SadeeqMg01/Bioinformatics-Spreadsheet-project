@@ -1,4 +1,4 @@
-# Name: Muhammad Auwal Idris
-# Email: auwalmisau32@gmail.com
-# Slack ID: Muhammad A Idris
-# Area of intrest: Genomics
+#!/usr/bin/env bash
+
+
+echo "Muhammad Auwal Idris,auwalmisau32@gmail.com,@Muhammad A Idris,Genomics"
