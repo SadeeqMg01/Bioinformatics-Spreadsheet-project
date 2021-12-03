@@ -18,6 +18,6 @@ cd $repoDir
 echo "$groupName" >> output.csv
 echo "$gitUrl" >> output.csv
 
-echo Done. Quitting...
+echo Abubakar mahmood 
 
 sleep 5
