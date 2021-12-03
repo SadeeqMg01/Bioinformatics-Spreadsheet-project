@@ -1,4 +1,4 @@
-# Name: Nura Gali
-# Email: nuragali6154@gmail.com
-# Slack Id: @NUra Gali
-# Area of Interest: Genomics
+#!/usr/bin/env bash
+
+
+echo "Nura Gali,nuragali6154@gmail.com,@NUra Gali,Genomics"
