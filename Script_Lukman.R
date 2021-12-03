@@ -1,5 +1,5 @@
-# Name: Lukman Isah Musa
-# Email: ishamusalukman@gmail.com
-# Slack Id: @Lukman Isah MUsa
-# Area of Interest: Genomics
+#!/usr/bin/env bash
+
+
+echo "Lukman Isah Musa,ishamusalukman@gmail.com,@lukman_isah_musa,Genomics
 
